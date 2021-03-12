@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawing" type="id" />
+    <item name="paint_colors" type="id" />
+    <item name="draw_btn" type="id" />
+    <item name="erase_btn" type="id" />
+    <item name="new_btn" type="id" />
+    <item name="save_btn" type="id" />
+    <item name="opacity_btn" type="id" />
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="sml" />
+    <string name="med" />
+    <string name="lrg" />
+    <string name="start_new" />
+    <string name="brush" />
+    <string name="erase" />
+    <string name="opacity" />
+    <string name="save" />
+    <string name="paint" />
+</resources>
